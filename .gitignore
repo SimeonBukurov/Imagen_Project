@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Custom Project Exclusions
+/data/raw/
+/models/*.pth
+/models/*.h5
